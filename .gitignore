@@ -1,3 +1,6 @@
+*.csv
+*.ics
+
 *.py[co]
 
 # Packages
